@@ -1,7 +1,7 @@
-package testtask.smssupplier.servicies.impl;
+package testtask.cellphonevalidator.smssupplier.servicies.impl;
 
 import org.springframework.stereotype.Service;
-import testtask.smssupplier.servicies.SmsSupplierService;
+import testtask.cellphonevalidator.smssupplier.servicies.SmsSupplierService;
 
 @Service
 public class SmsSupplierServiceImpl implements SmsSupplierService {

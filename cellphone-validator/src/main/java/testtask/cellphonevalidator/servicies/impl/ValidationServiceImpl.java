@@ -8,7 +8,7 @@ import testtask.cellphonevalidator.servicies.StorageService;
 import testtask.cellphonevalidator.servicies.ValidationService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import testtask.smssupplier.servicies.SmsSupplierService;
+import testtask.cellphonevalidator.smssupplier.servicies.SmsSupplierService;
 
 import java.security.SecureRandom;
 import java.util.Optional;
