@@ -1,0 +1,6 @@
+services:
+  testtask:
+    container_name: testtask
+    build: .
+    ports:
+    - "8080:8080"
